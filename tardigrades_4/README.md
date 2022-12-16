@@ -1,4 +1,4 @@
- Project #4 Tardigrades
+ # Project #4 Tardigrades
 
 _Revealing the source of tolerance to radiation of tardigrades.
 Annotating proteins, searching for homologs and investigation of DNA reparation efficiency_
