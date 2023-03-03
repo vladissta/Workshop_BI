@@ -1,0 +1,13 @@
+{
+	"n_targets": 6459,
+	"n_bootstraps": 100,
+	"n_processed": 1721675,
+	"n_pseudoaligned": 1239331,
+	"n_unique": 1102242,
+	"p_pseudoaligned": 72.0,
+	"p_unique": 64.0,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Sun Feb 26 23:28:22 2023",
+	"call": "kallisto quant -t 4 -i transcript_index.idx -o SRR941818_out --single -b 100 -l 200 -s 20 SRR941818.fastq.gz"
+}
